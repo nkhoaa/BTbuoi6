@@ -1,0 +1,15 @@
+E:\Visual studio project\testTH4\testTH4\bin\Debug\testTH4.exe.config
+E:\Visual studio project\testTH4\testTH4\bin\Debug\testTH4.exe
+E:\Visual studio project\testTH4\testTH4\bin\Debug\testTH4.pdb
+E:\Visual studio project\testTH4\testTH4\bin\Debug\EntityFramework.dll
+E:\Visual studio project\testTH4\testTH4\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual studio project\testTH4\testTH4\bin\Debug\EntityFramework.xml
+E:\Visual studio project\testTH4\testTH4\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual studio project\testTH4\testTH4\obj\Debug\testTH4.csproj.AssemblyReference.cache
+E:\Visual studio project\testTH4\testTH4\obj\Debug\testTH4.Form1.resources
+E:\Visual studio project\testTH4\testTH4\obj\Debug\testTH4.Properties.Resources.resources
+E:\Visual studio project\testTH4\testTH4\obj\Debug\testTH4.csproj.GenerateResource.cache
+E:\Visual studio project\testTH4\testTH4\obj\Debug\testTH4.csproj.CoreCompileInputs.cache
+E:\Visual studio project\testTH4\testTH4\obj\Debug\testTH4.csproj.CopyComplete
+E:\Visual studio project\testTH4\testTH4\obj\Debug\testTH4.exe
+E:\Visual studio project\testTH4\testTH4\obj\Debug\testTH4.pdb
